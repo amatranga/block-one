@@ -1,5 +1,8 @@
 A more detailed git history can be found at https://github.com/amatranga/eos
 
+This application has been deployed! It can be viewed at https://calm-dusk-14355.herokuapp.com/
+Note that you may have to enable unsafe scripts due to the app loading over https and requesting resources over http.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
